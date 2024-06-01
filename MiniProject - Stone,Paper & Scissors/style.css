@@ -44,15 +44,15 @@ img{
     justify-content: center;
     align-items:center;
     font-size: 2rem;
-    margin-top: 3rem;
+    margin-top: 2rem;
     gap: 5rem;
 }
 #user-score , #comp-score{
     font-size: 4rem;
-    margin-top: 5rem;
+    margin-top: 2rem;
 }
 .msg-container{
-     margin-top: 6rem;
+     margin-top: 4em;
 
     }
 #msg{
